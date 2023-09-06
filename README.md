@@ -1,1 +1,1 @@
-C language
+memory allocation in c
